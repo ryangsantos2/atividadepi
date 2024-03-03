@@ -1,0 +1,37 @@
+
+.tagA{
+width: 400px; 
+height: 400px;
+background-color: #ff7f00;
+}
+
+.tagB{width:200px; 
+    height: 200px; 
+    background-color: #00ff7f;
+}
+
+
+.tagC{width: 200px; 
+    height: 40vw;
+    background-color:rgb(145, 212, 235);
+   
+
+}
+
+.tagD{
+    width: 60vw;
+    height: 30vw;
+    background-color: rgb(240, 18, 18);
+   
+}
+
+.pTagC{
+    background-color: red ;
+    font-family: monospace; 
+    font-weight: 200px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+
+
